@@ -1,6 +1,6 @@
 # Screen Time vs Battery Usage — Linear Regression
 
-My first beginner Machine Learning project: using **Simple Linear Regression** to explore the relationship between screen time and battery usage.
+My  Machine Learning project: using **Simple Linear Regression** to explore the relationship between screen time and battery usage.
 
 ## Project goal
 
